@@ -1,3 +1,8 @@
+/*
+Lista 5 Questão 3
+Faça um programa que leia 5 números reais e os armazene em um vetor A. 
+A saída do programa deve ser o maior e o segundo maior elemento do vetor.
+*/
 #include <stdio.h>
 
 #define TAM 5
